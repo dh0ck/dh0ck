@@ -1,4 +1,4 @@
-### Antonio Lara (dh0ck)
+### Antonio Lara
 
 Hi, I'm Antonio, a Security Engineer and open source enthusiast. Welcome to my repo, where I share little (and not so little) projects that at some point I needed to create for my own, but that I think can also be helpful to others.
 
