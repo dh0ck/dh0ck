@@ -8,3 +8,4 @@ Also, check out my popular <a href="https://github.com/dh0ck/Wi-Fi-Pentesting-Ch
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh0ck&show_icons=true&theme=nord)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh0ck&theme=nord&icons=true)](https://github.com/anuraghazra/github-readme-stats)
