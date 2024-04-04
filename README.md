@@ -6,5 +6,6 @@ If you are a pentester/bug bounty hunter, check my <a href="https://github.com/d
 
 Also, check out my popular <a href="https://github.com/dh0ck/Wi-Fi-Pentesting-Cheatsheet">Wifi pentesting cheatsheet</a> if you are learning about WiFi hacking, or if you are studying for Offsec's OSWP PEN-210 exam.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
